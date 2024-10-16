@@ -1,8 +1,22 @@
+# Personal To-Do List Application
 
-### Key improvements:
-1. **Introduction**: I made the sentence simpler while keeping it professional.
-2. **Features**: Just slight rewording for clarity and flow.
-3. **How to Run**: The instructions are the same, but I slightly adjusted the language.
+## Introduction
+A simple command-line application to manage tasks. It allows users to add, view, mark as complete, and delete tasks, with all data stored locally.
+
+## Features
+- Add tasks with a title, description, and category.
+- View all tasks with their completion status.
+- Mark tasks as completed.
+- Delete tasks from the list.
+
+## How to Run
+1. Ensure Python is installed on your machine.
+2. Clone or download this repository.
+3. Open a terminal and navigate to the project folder.
+4. Run the application using the command:
+   ```bash
+   python todo.py
+
 
 
 
